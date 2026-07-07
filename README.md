@@ -63,8 +63,8 @@ Başlıca modüller:
 # 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rcpsngn&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rcpsngn&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rcpsngn&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcpsngn&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
@@ -72,7 +72,7 @@ Başlıca modüller:
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rcpsngn&theme=github-dark-blue&hide_border=true" />
+  <img src="https://github-readme-streak-stats.flashvias.com?user=rcpsngn&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
@@ -80,5 +80,5 @@ Başlıca modüller:
 # 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rcpsngn&theme=darkhub&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rcpsngn&theme=github&no-frame=true&row=1&column=7" />
 </p>
