@@ -1,16 +1,49 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**rcpsngn/rcpsngn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Merhaba, Ben Recep Şengün
 
-Here are some ideas to get you started:
+### Software Developer | Python & Django Developer | Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+Modern, güvenilir ve ölçeklenebilir yazılımlar geliştirmeyi hedefleyen bir yazılım geliştiricisiyim.
+</p>
+
+<p>
+🚀 Şu anda <strong>ZENITHAR ERP</strong> projesi üzerinde aktif olarak çalışıyorum.
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 Hakkımda
+
+- 💻 Yazılım geliştirme ve yeni teknolojiler üzerine çalışıyorum.
+- 🐍 Python ve Django ile backend uygulamaları geliştiriyorum.
+- 🌐 Full Stack Web Development alanında kendimi geliştiriyorum.
+- 🗄️ SQL ve MySQL ile veritabanı tasarımı yapıyorum.
+- 🔌 REST API geliştirme ve sistem entegrasyonlarıyla ilgileniyorum.
+- 📚 Sürekli yeni teknolojiler öğrenmeye ve kendimi geliştirmeye önem veriyorum.
+
+---
+
+## 🚀 Şu Anda Üzerinde Çalışıyorum
+
+### ZENITHAR ERP
+
+Kurumsal işletmeler için geliştirilen modern bir ERP sistemi.
+
+Başlıca modüller:
+
+- ✅ Kimlik Doğrulama
+- ✅ Personel Yönetimi
+- ✅ Cari Hesap Yönetimi
+- ✅ Stok Yönetimi
+- ✅ Satış
+- ✅ Satın Alma
+- ✅ Muhasebe
+- ✅ e-Fatura
+- ✅ e-Arşiv
+- ✅ Dashboard
+- ✅ Raporlama
+- ✅ Mobil Uygulama Entegrasyonu
