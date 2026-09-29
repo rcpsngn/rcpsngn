@@ -6,7 +6,7 @@
 
 Building reliable, scalable, and modern software solutions with a focus on clean architecture and maintainable code.
 
-🚀 Currently developing **ZENITHAR ERP**, **TekstilNet**, **MatbaNet**, **Turko_Project** and other enterprise software solutions.
+🚀 Currently developing **ZENITHAR ERP**, **TekstilNet**, **MatbaNet**, **Turko_Project**, and **FasonBul**.
 
 </div>
 
@@ -29,20 +29,32 @@ Building reliable, scalable, and modern software solutions with a focus on clean
 All projects listed below are actively under development (**Geliştirilme Aşamasında**):
 
 ## 🏢 ZENITHAR ERP
-A modern Enterprise Resource Planning (ERP) system designed for businesses.
-- **Main Modules:** Authentication & Authorization, Human Resources, Customer & Supplier Management, Inventory Management, Sales Management, Purchasing Management, Accounting, e-Invoice, e-Archive, Dashboard & Analytics, Reporting, Mobile Application Integration.
+A comprehensive Enterprise Resource Planning (ERP) platform designed for businesses.
+- **Main Modules:** 
+  - 🔐 Authentication & Authorization
+  - 👥 Human Resources
+  - 👤 Customer & Supplier Management
+  - 📦 Inventory Management
+  - 💰 Sales Management
+  - 🛒 Purchasing Management
+  - 📊 Accounting
+  - 🧾 e-Invoice
+  - 📄 e-Archive
+  - 📈 Dashboard & Analytics
+  - 📑 Reporting
+  - 📱 Mobile Application Integration
 
 ## 🧵 TekstilNet
-A specialized platform tailored for the textile industry, streamlining processes and management operations.
+A specialized job tracking and management software tailored for the textile industry.
 
 ## 🖨️ MatbaNet
-Digital management and workflow solutions tailored for the printing and publishing sector.
+A workflow and job tracking software specifically designed for printing and publishing houses (Matbaa).
 
-## 🇹🇷 Turko_Project
-A dedicated software project focused on customized digital solutions and operational management.
+## 🤖 Turko_Project
+An advanced artificial intelligence robot project built in a Jarvis-style architecture.
 
-## 🌐 Other Solutions & Platforms
-- **FasonBul**: A platform connecting manufacturers and businesses for subcontracting (fason) works.
+## 🤝 FasonBul
+A platform initially focused on job searching and matching for the textile industry, with a scalable architecture designed to expand into other sectors in the future.
 
 ---
 
