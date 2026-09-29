@@ -6,7 +6,7 @@
 
 Building reliable, scalable, and modern software solutions with a focus on clean architecture and maintainable code.
 
-🚀 Currently developing **ZENITHAR ERP**, **TekstilNet**, **turko_project** and other enterprise software solutions.
+🚀 Currently developing **ZENITHAR ERP**, **TekstilNet**, **MatbaNet**, **Turko_Project** and other enterprise software solutions.
 
 </div>
 
@@ -35,12 +35,14 @@ A modern Enterprise Resource Planning (ERP) system designed for businesses.
 ## 🧵 TekstilNet
 A specialized platform tailored for the textile industry, streamlining processes and management operations.
 
-## 🇹🇷 turko_project
+## 🖨️ MatbaNet
+Digital management and workflow solutions tailored for the printing and publishing sector.
+
+## 🇹🇷 Turko_Project
 A dedicated software project focused on customized digital solutions and operational management.
 
 ## 🌐 Other Solutions & Platforms
 - **FasonBul**: A platform connecting manufacturers and businesses for subcontracting (fason) works.
-- **MatbaNet**: Digital management and workflow solutions tailored for the printing and publishing sector.
 
 ---
 
